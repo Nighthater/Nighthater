@@ -1,5 +1,8 @@
-<p align="center">
-    <a href="https://github.com/Nighthater"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nighthater&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
-    <a href="https://github.com/Nighthater"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=nighthater&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
-    
-</p>
+
+<!--<div class="profile_image" align="center">-->
+  <!---->
+  <!-- trigger -->
+  <!--<p> Nighthater </p>-->
+<!--</div>-->
+[![Nighthaters's github stats](https://github-readme-stats.vercel.app/api?username=Nighthater&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nighthater&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
